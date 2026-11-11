@@ -48,6 +48,9 @@ Ingeniero en Sistemas Computacionales con especialidad en desarrollo de software
 - 🏅 3 premios en concursos y hackatones nacionales e internacionales
 - 📜 Certificaciones Cisco
 
+<p align="center">
+  <a href="https://1drv.ms/f/c/fc9472a165ba21b2/IgDd0dLacPAuSZj8yGVaTZ7VAXkzi-LSlYrFzjz8ZUf75jA?e=nY1SqP"><img src="https://img.shields.io/badge/Ver%20constancias%20y%20certificaciones-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+</p>
 ## 📊 Lenguajes y actividad
 
 <p align="center">
