@@ -48,15 +48,27 @@ Ingeniero en Sistemas Computacionales con especialidad en desarrollo de software
 - 🏅 3 premios en concursos y hackatones nacionales e internacionales
 - 📜 Certificaciones Cisco
 
-## 📊 Estadísticas
+## 💡 En qué puedo aportar
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">⚙️<br><b>Backend</b><br>Java y Python para lógica de negocio y APIs</td>
+    <td align="center" width="33%">🎨<br><b>Frontend</b><br>Interfaces con React, JavaScript y TypeScript</td>
+    <td align="center" width="33%">🗄️<br><b>Bases de datos</b><br>SQL Server, MySQL, PostgreSQL y MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center">🔗<br><b>Integraciones</b><br>API de WhatsApp y dispositivos biométricos</td>
+    <td align="center">🤖<br><b>Machine Learning</b><br>Modelos aplicados al análisis clínico</td>
+    <td align="center">🔐<br><b>Seguridad</b><br>Cifrado de datos, 1.er lugar internacional</td>
+  </tr>
+</table>
+</div>
+
+## 🎯 Lo que busco
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannymix123-wq&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=giovannymix123-wq&theme=tokyonight&hide_border=true&locale=es" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giovannymix123-wq&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=600&lines=Integrarme+a+un+equipo+de+desarrollo+de+software;Startups%2C+empresas+o+instituciones+tecnol%C3%B3gicas;Crecer+hacia+el+liderazgo+de+proyectos" alt="Lo que busco"/>
 </p>
 
 <!-- Pie de página animado -->
