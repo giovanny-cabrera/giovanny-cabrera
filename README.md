@@ -48,6 +48,13 @@ Ingeniero en Sistemas Computacionales con especialidad en desarrollo de software
 - 🏅 3 premios en concursos y hackatones nacionales e internacionales
 - 📜 Certificaciones Cisco
 
+## 📊 Lenguajes y actividad
+
+<p align="center">
+  <img src="https://github-readme-stats-three-psi-89.vercel.app/api/top-langs/?username=giovanny-cabrera&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&locale=es" height="180"/>
+  <img src="https://github-readme-stats-three-psi-89.vercel.app/api?username=giovanny-cabrera&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&locale=es" height="180"/>
+</p>
+
 ## 💡 En qué puedo aportar
 
 <div align="center">
