@@ -17,7 +17,7 @@ Ingeniero en Sistemas Computacionales con especialidad en desarrollo de software
 
 - 📍 Tultitlán, Estado de México
 - 🎓 Ing. en Sistemas Computacionales (TESCo) · Técnico en Programación (CETIS 95)
-- 🗣️ Inglés B2
+- 🗣️ Inglés B1
 - 🤝 Scrum, trabajo en equipo, liderazgo y resolución de problemas
 - 📫 Giovanny_Cabrera_Gallo@outlook.com
 
